@@ -1,0 +1,69 @@
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    line-height: 1.5;
+    text-align: center;
+}
+p.sub1{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: violet;
+    text-align: center;
+    cursor: pointer;
+
+}
+p.sub2{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: violet;
+    text-align: center;
+    cursor: pointer;
+}
+p{
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Arial;
+    text-align: center;
+}
+.foto1{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+.foto2{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+.foto3{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+.foto4{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+div.noticia{
+    width: 50%;
+    margin: 20px auto;
+    color: white;
+    padding: 15px;
+    background-color: blueviolet;
+}
+div.noticia img.izquierda{
+    float: left;
+    margin-right: 15px;
+    width: 200px;
+    height: 200px;
+}
+ul{
+    list-style-type: circle;
+    margin-left: 35px;
+    cursor: pointer;
+    
+
+}
